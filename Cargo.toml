@@ -1,7 +1,9 @@
 [package]
-name = "my_parser"
+name = "my_parser_striletska"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+description = 'A brief description"
 
 [dependencies]
 peg = "0.8.4"
