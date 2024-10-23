@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 license = "MIT"
 description = "A simple parser, that parses lists of integers from string format"
-
+readme = "README.md"
+repository = "https://github.com/KatyaStriletska/my-first-parser"
 [dependencies]
 peg = "0.8.4"
